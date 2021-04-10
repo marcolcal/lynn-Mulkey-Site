@@ -30,16 +30,16 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Lynn Mulkey</a>
+      <a class="navbar-brand" href="\lynns-mulkey-site\index.php">Lynn Mulkey</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
+      <li class="active"><a href="\lynns-mulkey-site\index.php">Home</a></li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">More<span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="#">About me</a></li>
-          <li><a href="#">My Music</a></li>
-          <li><a href="#">The ministry</a></li>
-		  <li><a href="#">There is a book</a></li>
+          <li><a href="\lynns-mulkey-site\other-pages\about-me.php">About me</a></li>
+          <li><a href="\lynns-mulkey-site\other-pages\my-music.php">My Music</a></li>
+          <li><a href="\lynns-mulkey-site\other-pages\my-ministry.php">The ministry</a></li>
+		      <li><a href="\lynns-mulkey-site\other-pages\the-book.php">There is a book</a></li>
         </ul>
       </li>
       <li><a href="#">Contact Me</a></li>
@@ -65,34 +65,34 @@
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="\lynns-mulkey\images\lynn_kid_pic.png" alt="Chania" width="460" height="345">
+        <img src="/lynns-mulkey-site/images/lynn-kid-pic2.png" alt="Chania" width="460" height="345">
         <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <h3>Just a boy</h3>
+          <p>Loved my dog Spot</p>
         </div>
       </div>
 
       <div class="item">
-        <img src="\lynns-mulkey\images\lynn_kid_pic.png" alt="Chania" width="460" height="345">
+        <img src="/lynns-mulkey-site/images/lynn-pics/lynn-guitar-large.jpg" alt="Chania" width="460" height="345">
         <div class="carousel-caption">
-          <h3>Chania</h3>
-          <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
+          <h3>Singing</h3>
+          <p>Worship</p>
         </div>
       </div>
     
       <div class="item">
-        <img src="\lynns-mulkey\images\lynn_kid_pic.png" alt="Flower" width="460" height="345">
+        <img src="/lynns-mulkey-site/images/lynn-pics/palidan-Lynn-1960.jpg" alt="Flower" width="460" height="345">
         <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beautiful flowers in Kolymbari, Crete.</p>
+          <h3>Cowboys and guns</h3>
+          <p>Me with my cowboy outfit</p>
         </div>
       </div>
 
       <div class="item">
-        <img src="\lynns-mulkey\images\lynn_kid_pic.png" alt="Flower" width="460" height="345">
+        <img src="/lynns-mulkey-site/images/lynn-pics/playing-lynn.JPG" alt="Flower" width="460" height="345">
         <div class="carousel-caption">
-          <h3>Flowers</h3>
-          <p>Beautiful flowers in Kolymbari, Crete.</p>
+          <h3>Jamming</h3>
+          <p>love to worship God with my music</p>
         </div>
       </div>
   
@@ -110,15 +110,15 @@
   </div>
 </div>
 <div class="container">
-  <h1>Grid</h1>
-  <p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
+  <h1>It's Just Me</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>      
   <p>Resize the browser window to see the effect.</p>      
   <div class="row">
-    <div class="col-sm-6" style="background-color:yellow;">
+    <div class="col-sm-6" style="background-color:gray;">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br>
       Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
     </div>
-    <div class="col-sm-6" style="background-color:pink;">
+    <div class="col-sm-6" style="background-color:gray;">
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.    
     </div>
   </div>
@@ -135,19 +135,19 @@
   <div class="row">
     <div class="col-sm-3">
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/playing-lynn.JPG" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/playing-lynn.JPG" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/playing-lynn.JPG" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3">
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/playing-lynn.JPG" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
 </div><br>
@@ -156,19 +156,19 @@
   <div class="row">
     <div class="col-sm-3">
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/lynn-guitar-large.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/lynn-guitar-large.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3"> 
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/lynn-guitar-large.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
     <div class="col-sm-3">
       <p>Some text..</p>
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <img src="/lynns-mulkey-site/images/lynn-pics/lynn-guitar-large.jpg" class="img-responsive" style="width:100%" alt="Image">
     </div>
   </div>
 </div><br><br>
